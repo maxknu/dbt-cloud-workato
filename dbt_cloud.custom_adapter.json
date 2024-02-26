@@ -1,0 +1,8 @@
+{
+  "title": "dbt Cloud",
+  "description": "### dbt Cloud Connector\r\ndbt is a industry standard, powerful data transformation (the T from ELT) tool that enables analytics engineers to transform, test, and deploy data models in the cloud or on-prem. It facilitates the efficient management of data workflows, ensuring clean, reliable data for analytics and business intelligence purposes.\r\n\r\n### The are two version of dbt\r\n\r\n1. Open Source dbt core which is free and has Apache 2 license  [github dbt-core](https://github.com/dbt-labs/dbt-core)\r\n2. Cloud hosted platform dbt Cloud (this connector)\r\n\r\n**Based on dbt Cloud API**\r\nDocumentation [admin-cloud-api](https://docs.getdbt.com/docs/dbt-cloud-apis/admin-cloud-api)\r\n\r\n### What can you do with this connector\r\n- Automate Data Transformation\r\n- Trigger Data Run (dbt build tasks)\r\n- Monitor runs",
+  "logo_file_name": "1n6iJpwj_400x400.jpg",
+  "logo_content_type": "image/jpeg",
+  "version_no": 106,
+  "note": "documentation update on where to get the api keys"
+}
