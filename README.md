@@ -8,6 +8,6 @@ dbt is a industry standard, powerful data transformation (the T from ELT) tool t
 
 
 # What can you do with this connector
-Automate Data Transformation
-Trigger Data Run (dbt build tasks)
-Monitor runs
+- Automate Data Transformation jobs
+- Trigger Data Run (dbt build tasks)
+- Monitor runs in dbt Cloud
